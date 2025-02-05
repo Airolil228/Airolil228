@@ -9,10 +9,10 @@
 # 💻 Pile technologique:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 # 📊 Mes projets:
-Assistence d'agencement -> https://github.com/Airolil228/assistance_d_agencement.git 
-Compression/Décompression du texte-> https://github.com/Airolil228/Codage_Huffman.git
-Le jeu 2048 -> https://github.com/Airolil228/2048.git
-Le jeu Shoot'em Up -> https://github.com/Airolil228/shoot-em-up.git
+Assistence d'agencement -> https://github.com/Airolil228/assistance_d_agencement.git <br>
+Compression/Décompression du texte-> https://github.com/Airolil228/Codage_Huffman.git <br>
+Le jeu 2048 -> https://github.com/Airolil228/2048.git <br>
+Le jeu Shoot'em Up -> https://github.com/Airolil228/shoot-em-up.git <br>
 
 
 ---
