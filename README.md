@@ -20,6 +20,8 @@ Le jeu Shoot'em Up -> <br> https://github.com/Airolil228/shoot-em-up.git
 <br> <br>
 Base de données : Gestion des commandes et des stocks des composants des oridnateurs -> <br> https://github.com/Airolil228/Gestion-des-stocks-des-composants.git 
 <br> <br>
+Projet Web: Gestionnaire de planning de la chaîne de la fabrication -> https://github.com/Airolil228/gestionaire_de_planning.git
+<br> <br>
 ---
 [![](https://visitcount.itsvg.in/api?id=Vasily&icon=0&color=0)](https://visitcount.itsvg.in)
 
